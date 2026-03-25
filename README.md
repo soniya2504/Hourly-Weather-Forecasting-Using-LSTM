@@ -142,6 +142,10 @@ Matplotlib
 
 Compare LSTM vs GRU models
 
+
+
+.\.
+
 Multi-step forecasting (48–72 hours)
 
 Multivariate forecasting (temperature + humidity)
